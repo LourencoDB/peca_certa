@@ -66,7 +66,7 @@ export default function ResultadosPage() {
               <ArrowLeft className="h-4 w-4 mr-2" />
               Voltar
             </Button>
-            <h1 className="text-xl font-semibold text-gray-900">Resultados para "pastilha de freio Fiat Palio 2012"</h1>
+            <h1 className="text-xl font-semibold text-gray-900">Resultados para &quot;pastilha de freio Fiat Palio 2012&quot;</h1>
           </div>
         </div>
       </header>
